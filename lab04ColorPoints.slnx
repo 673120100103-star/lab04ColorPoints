@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lab04ColorPoints.vcxproj" Id="3767f626-927f-469b-98af-c9cf3cc2a3c2" />
+</Solution>
